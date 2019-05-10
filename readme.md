@@ -6,11 +6,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 - Item de lista
 - Item de lista
 
-[Texto del enlace]('https://google.com')
+[Texto del enlace](https://google.com)
 
 ```css
 /*Para mostrar un ejemplo de código css */
 body {
-	background-color: crimson; 
+	background-color: crimson;
 }
 ```
