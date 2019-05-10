@@ -1,0 +1,49 @@
+Tipografías
+
+- Títulares: Monserrat Bold
+- Navbar: Monserrat Bold
+- Cuerpos de texto: Lato Regular
+- Íconos: Fontawesome
+
+Colores
+
+- Verde: #18BC9C
+- Azul: #2C3E50
+- Gris oscuro: #1a252f
+
+Textos
+
+FREELANCE PORTFOLIO
+
+PORTFOLIO
+ABOUT
+CONTACT
+
+Web Developer - Graphic Artist - User Experience Designer
+
+PORTFOLIO
+
+ABOUT
+Freelancer is a free landing page theme created for free use. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.
+
+Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!
+
+Download now!
+
+CONTACT ME
+Name
+Email address
+Phone number
+Message
+Send
+
+LOCATION
+2215 John Daniel Drive 
+Clark, MO 65243
+
+AROUND THE WEB
+
+ABOUT FREELANCER
+Freelance is free and open source landing page theme created to your free personal use.
+
+Copyright © Your Website 2018
